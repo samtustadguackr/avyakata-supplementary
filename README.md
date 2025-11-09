@@ -22,7 +22,7 @@ This repository ensures transparency and reproducibility for an interdisciplinar
 
 ## 📄 Citation
 If you reference or reuse any part of this repository, please cite:
-> Author (2025). *The Buddha’s Avyākata and AI Pattern Recognition: Two Upāyas for Disclosing the Emptiness of Language.* *Journal of Buddhist Studies*, forthcoming.  
+> Hajeong PARK (2025). *The Buddha’s Avyākata and AI Pattern Recognition: Two Upāyas for Disclosing the Emptiness of Language.* *Journal of Buddhist Studies*, forthcoming.  
 > Supplementary materials available at [https://github.com/username/avyakata-supplementary](https://github.com/username/avyakata-supplementary).
 
 ## ⚖️ License
