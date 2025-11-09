@@ -23,6 +23,37 @@
 > **Purpose:** Illustrate relational structure, not empirical validation.  
 > **Note:** This code is a formal conceptual simulation, visualizing how relational meaning structures in Buddhist cognition can be represented as patterns in information space. It does not aim for statistical rigor.
 
+---
+
+## 4. Summary of Results
+
+> 色 and 空 are positioned as the closest vectors → formalization of the relational pattern in “色即是空”.
+
+> 無得, 無智, 無所得 form a cluster → relational semantic network of the prefix “無 (non-/no-)”.
+
+> 般若 and 無得 share the same vector direction → relational correspondence of “wisdom is non-attainment”.
+
+---
+
+## 5. Interpretation Summary
+
+> The meaning of language is expressed not as individual substance but as a function of relational distance.
+
+> “空 (emptiness)” occupies a middle position between “無 (non-)” and “色 (form)” → diagramming relational emptiness.
+
+> Word2Vec serves as a heuristic visualization reproducing the structure of Buddhist pratītyasamutpāda (dependent origination).
+
+---
+
+## 6. Methodological Limitations
+
+> The corpus is small → no statistical significance.
+
+> Philosophical insights cannot be reduced to data.
+
+> Yet valid as a tool for conceptual clarification.
+
+
 ```python
 # Appendix A: Conceptual Simulation of Relational Patterns in the Heart Sutra
 # Author: Hajeong Park (2025)
