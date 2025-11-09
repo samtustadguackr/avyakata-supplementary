@@ -19,3 +19,25 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+MIT-style statement for generated materials, with attribution to original data sources.
+
+---
+LICENSE INFORMATION
+
+1. GENERATED MATERIALS
+All materials (Word2Vec embeddings, visualizations, tables, and figures) produced by the author through open-source tools are released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+You are free to share and adapt these materials, provided that appropriate credit is given to the author.
+
+2. SOURCE DATA
+The textual data used in this project originate from the CBETA (Chinese Buddhist Electronic Text Association) corpus, which is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License (CC BY-NC-SA 3.0).  
+CBETA © 2023, http://www.cbeta.org
+
+3. SOFTWARE
+Analyses were conducted using open-source Python libraries (`gensim`, `scikit-learn`, `matplotlib`), which are licensed under the MIT License and BSD License.
+
+4. AI-GENERATED CONTENT
+Certain intermediate outputs were generated using open-source AI models (Word2Vec). These outputs contain no personal data and are not subject to copyright restrictions.
+
+---
+© 2025 [samtustadguackr]. Released under CC BY 4.0.
