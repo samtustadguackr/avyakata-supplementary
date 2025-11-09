@@ -1,4 +1,4 @@
-# Appendix A — Summary of Formal Demonstration
+# Appendix — Summary of Formal Demonstration
 
 ## 1. Corpus and Environment
 - **Text:** 般若波羅蜜多心經 (CBETA, T08, No. 251)  
