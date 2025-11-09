@@ -12,7 +12,7 @@ This repository provides supplementary materials for the paper
 - **/figures/**
   - Generated figures (embedding maps, co-occurrence graphs)
 - **/appendix/**
-  - [Appendix A — Summary of Formal Demonstration](./appendix/appendix_formal_demonstration.md)
+  - [Appendix — Summary of Formal Demonstration](./appendix/appendix_formal_demonstration.md)
 
 
 ## Description
