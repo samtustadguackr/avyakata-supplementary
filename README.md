@@ -12,7 +12,8 @@ This repository provides supplementary materials for the paper
 - **/figures/**
   - Generated figures (embedding maps, co-occurrence graphs)
 - **/appendix/**
-  - Supplementary tables and analytical notes referenced in the paper
+  - [Appendix A — Summary of Formal Demonstration](./appendix/appendixA_formal_demonstration.md)
+
 
 ## Description
 All vectorization and visualization results were generated using open-source AI libraries (`gensim`, `scikit-learn`, `matplotlib`).
