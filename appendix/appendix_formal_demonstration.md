@@ -30,8 +30,7 @@ model = Word2Vec([tokens], vector_size=20, window=3, min_count=1, sg=1)
 for word in ['空', '無', '色', '智']:
     print(f"Nearest to {word}:", model.wv.most_similar(word, topn=5))
 
----
-
+```
 ## 2. Model Structure
 
 | Item | Setting Value | Purpose |
@@ -41,7 +40,8 @@ for word in ['空', '無', '色', '智']:
 | Window Size | 2 | Capture proximate co-occurrence relationships |
 | Epoch | 100 | Compensation for small data |
  
-```
+---
+
 ## 3. Conceptual Simulation Code
 
 > **Purpose:** Illustrate relational structure, not empirical validation.  
