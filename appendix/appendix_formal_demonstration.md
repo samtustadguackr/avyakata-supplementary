@@ -6,7 +6,7 @@
 - **Libraries:** `gensim 4.0+`, `scikit-learn 1.2+`, `matplotlib`
 
 ```python
-# Appendix A: Conceptual Simulation of Relational Patterns in the Heart Sutra
+# Appendix: Conceptual Simulation of Relational Patterns in the Heart Sutra
 # Author: Hajeong Park (2025)
 
 from gensim.models import Word2Vec
