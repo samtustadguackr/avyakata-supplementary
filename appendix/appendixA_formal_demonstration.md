@@ -25,7 +25,7 @@
 
 ```python
 # Appendix A: Conceptual Simulation of Relational Patterns in the Heart Sutra
-# Author: ___________ (2025)
+# Author: Hajeong Park (2025)
 
 from gensim.models import Word2Vec
 import re
