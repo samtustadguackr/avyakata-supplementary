@@ -7,8 +7,6 @@
 
 ```python
 # Appendix: Conceptual Simulation of Relational Patterns in the Heart Sutra
-# Author: Hajeong Park (2025)
-
 from gensim.models import Word2Vec
 import re
 
