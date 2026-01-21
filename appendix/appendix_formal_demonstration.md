@@ -77,6 +77,12 @@ for word in ['空', '無', '色', '智']:
 
 ## 7. Summary: Structural Correspondence Between Two Upāyas
 <table>
+  <colgroup>
+    <col style="width: 15%">
+    <col style="width: 28.33%">
+    <col style="width: 28.33%">
+    <col style="width: 28.33%">
+  </colgroup>
   <tr>
     <th>Category</th>
     <th>Buddhist Structure</th>
