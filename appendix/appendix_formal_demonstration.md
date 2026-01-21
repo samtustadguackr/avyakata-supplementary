@@ -75,12 +75,11 @@ for word in ['空', '無', '色', '智']:
 
 > Yet valid as a tool for conceptual clarification.
 
-## 7. Summary Diagram
+## 7. Summary: Structural Correspondence Between Two Upāyas
 
-| Category        | The Buddha's Avyākata                 | Word2Vec Demonstration              |
-| --------------- | ------------------------------------- | ----------------------------------- |
-| **Method**      | Suspension of utterance (silence)               | Formalization of utterance (calculation)      |
-| **Character**   | Performative expedient means                    | Formal expedient means                        |
-| **Goal**        | Experience language’s conditionality            | Visualize language’s relationality            |
-| **Limitation**  | Subjectivity of experience                      | Reductionism of calculation                   |
-| **Commonality** | Recognition of language’s emptiness (*śūnyatā*) | Manifestation of relational meaning structure |
+| Category | Buddhist Structure | AI Model Structure | Convergence Point |
+|----------|-------------------|-------------------|-------------------|
+| **What (Act)** | Avyākata (Silence) | Word2Vec (Formalization) | Conditionality of Language |
+| **How (Method)** | Performative Upāya (Suspension of Utterance) | Demonstrative Upāya (Transformation of Utterance) | Structural Correspondence |
+| **Why (Goal)** | Inducing Recognition of Language's Emptiness through Non-linguistic Expression | | |
+| **What is Deconstructed (Target)** | Subjective Presupposition | Categorized Representation | Substantialist View of Language |
