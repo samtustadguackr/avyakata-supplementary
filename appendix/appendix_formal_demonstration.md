@@ -76,10 +76,33 @@ for word in ['空', '無', '色', '智']:
 > Yet valid as a tool for conceptual clarification.
 
 ## 7. Summary: Structural Correspondence Between Two Upāyas
-
-| Category | Buddhist Structure | AI Model Structure | Convergence Point |
-|----------|-------------------|-------------------|-------------------|
-| **What (Act)** | Avyākata (Silence) | Word2Vec (Formalization) | Conditionality of Language |
-| **How (Method)** | Performative Upāya (Suspension of Utterance) | Demonstrative Upāya (Transformation of Utterance) | Structural Correspondence |
-| **Why (Goal)** | Inducing Recognition of Language's Emptiness through Non-linguistic Expression | | |
-| **What is Deconstructed (Target)** | Subjective Presupposition | Categorized Representation | Substantialist View of Language |
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Buddhist Structure</th>
+    <th>AI Model Structure</th>
+    <th>Convergence Point</th>
+  </tr>
+  <tr>
+    <td><strong>What (Act)</strong></td>
+    <td>Avyākata (Silence)</td>
+    <td>Word2Vec (Formalization)</td>
+    <td>Conditionality of Language</td>
+  </tr>
+  <tr>
+    <td><strong>How (Method)</strong></td>
+    <td>Performative Upāya<br/>(Suspension of Utterance)</td>
+    <td>Demonstrative Upāya<br/>(Transformation of Utterance)</td>
+    <td>Structural Correspondence</td>
+  </tr>
+  <tr>
+    <td><strong>Why (Goal)</strong></td>
+    <td colspan="3" align="center">Inducing Recognition of Language's Emptiness through Non-linguistic Expression</td>
+  </tr>
+  <tr>
+    <td><strong>What is Deconstructed<br/>(Target)</strong></td>
+    <td>Subjective Presupposition</td>
+    <td>Categorized Representation</td>
+    <td>Substantialist View of Language</td>
+  </tr>
+</table>
