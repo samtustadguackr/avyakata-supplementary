@@ -78,10 +78,10 @@ for word in ['空', '無', '色', '智']:
 ## 7. Summary: Structural Correspondence Between Two Upāyas
 <table>
   <colgroup>
-    <col style="width: 25%">
-    <col style="width: 25%">
-    <col style="width: 25%">
-    <col style="width: 25%">
+    <col style="width: 15%">
+    <col style="width: 28.33%">
+    <col style="width: 28.33%">
+    <col style="width: 28.33%">
   </colgroup>
   <tr>
     <th>Category</th>
@@ -91,14 +91,14 @@ for word in ['空', '無', '色', '智']:
   </tr>
   <tr>
     <td><strong>What (Act)</strong></td>
-    <td>Avyākata (Silence)</td>
+    <td><i>Avyākata</i> (Silence)</td>
     <td>Word2Vec (Formalization)</td>
     <td>Conditionality of Language</td>
   </tr>
   <tr>
     <td><strong>How (Method)</strong></td>
-    <td>Performative Upāya<br/>(Suspension of Utterance)</td>
-    <td>Demonstrative Upāya<br/>(Transformation of Utterance)</td>
+    <td>Performative <i>Upāya</i><br/>(Suspension of Utterance)</td>
+    <td>Demonstrative <i>Upāya</i><br/>(Transformation of Utterance)</td>
     <td>Structural Correspondence</td>
   </tr>
   <tr>
