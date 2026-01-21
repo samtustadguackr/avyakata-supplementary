@@ -77,8 +77,8 @@ for word in ['空', '無', '色', '智']:
 
 ## 7. Summary Diagram
 
-| Category        | The Buddha's Avyākata                           | Word2Vec Demonstration                        |
-| --------------- | ----------------------------------------------- | --------------------------------------------- |
+| Category        | The Buddha's Avyākata                 | Word2Vec Demonstration              |
+| --------------- | ------------------------------------- | ----------------------------------- |
 | **Method**      | Suspension of utterance (silence)               | Formalization of utterance (calculation)      |
 | **Character**   | Performative expedient means                    | Formal expedient means                        |
 | **Goal**        | Experience language’s conditionality            | Visualize language’s relationality            |
