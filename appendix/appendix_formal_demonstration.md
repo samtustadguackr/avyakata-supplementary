@@ -103,7 +103,8 @@ for word in ['空', '無', '色', '智']:
   </tr>
   <tr>
     <td><strong>Why (Goal)</strong></td>
-    <td colspan="3" align="center">Inducing Recognition of Language's Emptiness through Non-linguistic Expression</td>
+    <td colspan="2" align="center">Inducing Recognition of Language's Emptiness through Non-linguistic Expression</td>
+    <td align="center">Recognition of Language’s Emptiness</td>
   </tr>
   <tr>
     <td><strong>What is Deconstructed<br/>(Target)</strong></td>
