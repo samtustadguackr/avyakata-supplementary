@@ -76,7 +76,7 @@ for word in ['空', '無', '色', '智']:
 > Yet valid as a tool for conceptual clarification.
 
 ## 7. Summary: Structural Correspondence Between Two Upāyas
-<table>
+<table style="width: 100%; text-align: center; border-collapse: collapse;">
   <colgroup>
     <col style="width: 15%">
     <col style="width: 28.33%">
