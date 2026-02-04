@@ -76,40 +76,44 @@ for word in ['空', '無', '色', '智']:
 > Yet valid as a tool for conceptual clarification.
 
 ## 7. Summary: Structural Correspondence Between Two Upāyas
-<table style="width: 100%; text-align: center; border-collapse: collapse;">
+<table style="width: 100%; text-align: center; border-collapse: collapse; border: 1px solid #ccc;">
   <colgroup>
     <col style="width: 15%">
     <col style="width: 28.33%">
     <col style="width: 28.33%">
     <col style="width: 28.33%">
   </colgroup>
-  <tr>
-    <th>Category</th>
-    <th>Buddhist Structure</th>
-    <th>AI Model Structure</th>
-    <th>Convergence Point</th>
-  </tr>
-  <tr>
-    <td><strong>What (Act)</strong></td>
-    <td><i>Avyākata</i> (Silence)</td>
-    <td>Word2Vec (Formalization)</td>
-    <td>Conditionality of Language</td>
-  </tr>
-  <tr>
-    <td><strong>How (Method)</strong></td>
-    <td>Performative <i>Upāya</i><br/>(Suspension of Utterance)</td>
-    <td>Demonstrative <i>Upāya</i><br/>(Transformation of Utterance)</td>
-    <td>Structural Correspondence</td>
-  </tr>
-  <tr>
-    <td><strong>Why (Goal)</strong></td>
-    <td colspan="2" align="center">Inducing Recognition of Language's Emptiness through Non-linguistic Expression</td>
-    <td align="center">Recognition of Language’s Emptiness</td>
-  </tr>
-  <tr>
-    <td><strong>What is Deconstructed<br/>(Target)</strong></td>
-    <td>Subjective Presupposition</td>
-    <td>Categorized Representation</td>
-    <td>Substantialist View of Language</td>
-  </tr>
+  <thead>
+    <tr style="background-color: #f9f9f9; border-bottom: 2px solid #ccc;">
+      <th style="padding: 10px; border: 1px solid #ddd;">Category</th>
+      <th style="padding: 10px; border: 1px solid #ddd;">Buddhist Structure</th>
+      <th style="padding: 10px; border: 1px solid #ddd;">AI Model Structure</th>
+      <th style="padding: 10px; border: 1px solid #ddd;">Convergence Point</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;"><strong>What (Act)</strong></td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><i>Avyākata</i> (Silence)</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Word2Vec (Formalization)</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Conditionality of Language</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;"><strong>How (Method)</strong></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Performative <i>Upāya</i><br/>(Suspension of Utterance)</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Demonstrative <i>Upāya</i><br/>(Transformation of Utterance)</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Structural Correspondence</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;"><strong>Why (Goal)</strong></td>
+      <td colspan="2" style="padding: 10px; border: 1px solid #ddd;">Inducing Recognition of Language's Emptiness through Non-linguistic Expression</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Recognition of Language’s Emptiness</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;"><strong>What is Deconstructed<br/>(Target)</strong></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Subjective Presupposition</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Categorized Representation</td>
+      <td style="padding: 10px; border: 1px solid #ddd;">Substantialist View of Language</td>
+    </tr>
+  </tbody>
 </table>
